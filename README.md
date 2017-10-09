@@ -8,6 +8,7 @@ List of awesome opensource synth project. Software and Hardware
 * [mtytel/helm](https://github.com/mtytel/helm) - A free polyphonic synth with lots of modulation
 * [LouisGorenfeld/DigitsVst](https://github.com/LouisGorenfeld/DigitsVst) - An advanced phase distortion synthesizer
 * [asb2m10/dexed](https://github.com/asb2m10/dexed) - FM multi plaform/multi format plugin
+* [marianboda/miriyaki](https://github.com/marianboda/miriyaki) - Subtractive VST synth
 
 # Hardware
 
