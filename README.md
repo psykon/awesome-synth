@@ -1,2 +1,19 @@
 # awesome-synth
 List of awesome opensource synth project. Software and Hardware
+
+# Software
+
+* [VCVRack/Rack](https://github.com/VCVRack/Rack) - Open-source virtual Eurorack DAW
+* [amsynth/amsynth](https://github.com/amsynth/amsynth) - Analog Modelling Synthesizer
+* [mtytel/helm](https://github.com/mtytel/helm) - A free polyphonic synth with lots of modulation
+* [LouisGorenfeld/DigitsVst](https://github.com/LouisGorenfeld/DigitsVst) - An advanced phase distortion synthesizer
+
+
+# Hardware
+
+## Modular
+
+* [mxmxmx/O_C](https://github.com/mxmxmx/O_C) - polymorphic CV generator eurorack module
+* [mxmxmx/temps_utile-](https://github.com/mxmxmx/temps_utile-) - 6x clock generator eurorack module
+* [mxmxmx/terminal_tedium](https://github.com/mxmxmx/terminal_tedium) - raspberry pi 2 / pi 3 / zero (W) / pi a+ / b+ eurorack stereo codec (wm8731) breakout board 
+* [Korb-Modular/01_PUSHER](https://github.com/Korb-Modular/01_PUSHER) - Force Sensitive CV-Controller. Eurorack Module
