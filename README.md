@@ -14,6 +14,7 @@ List of awesome opensource synth project. Software and Hardware
 
 * [pichenettes/shruthi-1](https://github.com/pichenettes/shruthi-1) - Shruthi-1, a digital/analog hybrid MIDI monosynth.
 * [pichenettes/ambika](https://github.com/pichenettes/ambika) - Hybrid 6-voice polysynth with flexible voicecard architecture
+* [Ixox/preenfm2](https://github.com/Ixox/preenfm2) - preenFM2 firmware 
 
 ## Modular
 
