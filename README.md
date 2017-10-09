@@ -18,3 +18,6 @@ List of awesome opensource synth project. Software and Hardware
 * [mxmxmx/temps_utile-](https://github.com/mxmxmx/temps_utile-) - 6x clock generator eurorack module
 * [mxmxmx/terminal_tedium](https://github.com/mxmxmx/terminal_tedium) - raspberry pi 2 / pi 3 / zero (W) / pi a+ / b+ eurorack stereo codec (wm8731) breakout board 
 * [Korb-Modular/01_PUSHER](https://github.com/Korb-Modular/01_PUSHER) - Force Sensitive CV-Controller. Eurorack Module
+* [Korb-Modular/02_FOLDER](https://github.com/Korb-Modular/02_FOLDER) - Dual Wave-Folded VCO. Eurorack Module
+* [Korb-Modular/03_DVCA](https://github.com/Korb-Modular/03_DVCA) - Dual VCA. Eurorack Module
+* [Korb-Modular/04_DLFO](https://github.com/Korb-Modular/04_DLFO) - Dual LFO. Eurorack Module
