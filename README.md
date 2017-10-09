@@ -12,6 +12,9 @@ List of awesome opensource synth project. Software and Hardware
 
 # Hardware
 
+* [pichenettes/shruthi-1](https://github.com/pichenettes/shruthi-1) - Shruthi-1, a digital/analog hybrid MIDI monosynth.
+* [pichenettes/ambika](https://github.com/pichenettes/ambika) - Hybrid 6-voice polysynth with flexible voicecard architecture
+
 ## Modular
 
 * [mxmxmx/O_C](https://github.com/mxmxmx/O_C) - polymorphic CV generator eurorack module
@@ -21,3 +24,4 @@ List of awesome opensource synth project. Software and Hardware
 * [Korb-Modular/02_FOLDER](https://github.com/Korb-Modular/02_FOLDER) - Dual Wave-Folded VCO. Eurorack Module
 * [Korb-Modular/03_DVCA](https://github.com/Korb-Modular/03_DVCA) - Dual VCA. Eurorack Module
 * [Korb-Modular/04_DLFO](https://github.com/Korb-Modular/04_DLFO) - Dual LFO. Eurorack Module
+* [pichenettes/eurorack](https://github.com/pichenettes/eurorack) - Mutable Instruments' Eurorack Modules.
